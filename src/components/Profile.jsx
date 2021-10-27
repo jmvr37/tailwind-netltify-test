@@ -16,7 +16,7 @@ const Profile = () =>{
                   </div>
                   <h6 class="text-3xl font-mono">Hi, I'm Jose </h6>
                   <p class="sm:text-sm mt-2 mb-4 font-light md:text-2xl mt-2 mb-4">
-                  Since the beginning of my journey as a full stack developer 2 years ago, I've done over 10 projects using different technologies, such as Javascript, PHP, and ReactJS.
+                  Since the beginning of my journey as a full stack developer 2 years ago, I've done over 10 projects using different technologies, such as Javascript, php, and ReactJS.
                   I have worked with talented people to develop digital products for a few non-profit organizations. A self-taught UI/UX designer with a natural curiosity,
                   I'm always seeking to improve my skills.
                   </p>
