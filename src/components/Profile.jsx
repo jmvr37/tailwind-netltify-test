@@ -8,7 +8,7 @@ const Profile = () =>{
       <>
   <section class="flex flex-wrap justify-center" id="profile">
   
-  <div class="flex justify-center w-full md:w-3/4 px-4 text-center lg:w-3/4">
+  <div class="flex justify-center w-full py-7 md:w-3/4 px-4 text-center lg:w-3/4">
               <div class="relative flex flex-col min-w-0 break-words bg-gradient-to-r from-green-400 to-blue-500 w-full mb-8 shadow-lg rounded-lg">
                 <div class="flex-auto px-4 py-5">
                   <div class="text-white p-3 text-center inline-flex items-center justify-center w-20 h-20 mb-5 shadow-lg rounded-full bg-lightBlue-400 animate-pulse">
