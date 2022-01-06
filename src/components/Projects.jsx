@@ -2,9 +2,10 @@ import React from 'react';
 import Larivo from '../assets/images/larivo.png';
 import Instanews from '../assets/images/instanews.jpeg';
 import Boomtown from '../assets/images/boomtown.png';
-import R20 from '../assets/images/R20.jpeg';
+// import R20 from '../assets/images/R20.jpeg';
 import Beyond from '../assets/images/beyond2.jpeg';
 import Dimsum from '../assets/images/dimsum-app.png';
+import Pollution from '../assets/images/pollution.png';
 
 const Projects = () =>{
     return (
@@ -50,14 +51,14 @@ const Projects = () =>{
   </div>
 </div>
 <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden bg-white hover:shadow-xl transition-shadow duration-300 ease-in-out md:max-w-2xl">
-  <div>
+<div>
     <div>
-      <img alt="R20 app"  class="h-48 w-full object-cover" src={R20}/>
+      <img alt="R20 app"  class="h-48 w-full object-cover" src={Pollution}/>
     </div>
     <div class="p-8">
-      <div class="uppercase tracking-wide text-lg text-indigo-500 font-semibold">R-20</div>
-      <a href="https://github.com/jmvr37/R20" target="_blank" rel="noreferrer" class="block mt-1 text-sm leading-tight font-medium text-black hover:underline">Source Code</a>
-      <p class="mt-2 text-gray-500 text-base">An app was built using React Native for an upcoming developer conference called R20, where users can check the schedule of the sessions, read the speaker’s profile, and mark sessions as favourites. MondoDb was used to build the database.</p>
+      <div class="tracking-wide text-lg text-indigo-500 font-semibold">Air Quality Chart App</div>
+      <a href="https://pollution-chart.netlify.app/" target="_blank" rel="noreferrer" class="block mt-1 text-sm leading-tight font-medium text-black hover:underline">Live Site</a>
+      <p class="mt-2 text-gray-500 text-base">This project was bootstrapped with Create React App to create the frond-end User Interface using ReactJs. At the backend, Real-time Air Quality data feed are used to get the details of the Air Quality.</p>
     </div>
   </div>
 </div>
