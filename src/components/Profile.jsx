@@ -16,7 +16,7 @@ const Profile = () =>{
   <section style= { style } class="flex flex-wrap justify-center" id="profile">
 
   <div class="flex items-center justify-end h-5/6">
-   <div class="bg-white font-semibold text-center rounded-3xl border shadow-lg p-10 mb-20 max-w-md">
+   <div class="bg-white font-semibold text-center rounded-3xl border shadow-lg p-10 mb-20 py-16 max-w-md sm: ">
      <img class="mb-3 w-40 h-40 rounded-full shadow-lg mx-auto max-w-120-px" src={Profile3} alt="product designer"/>
      <h1 class="text-lg text-gray-700"> Jose Valenzuela</h1>
      <h3 class="text-sm text-gray-400 "> Front-End Dev </h3>
