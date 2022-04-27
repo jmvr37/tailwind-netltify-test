@@ -19,7 +19,7 @@ return(
         <img alt="..." src={Profile} class="shadow-lg rounded-full mx-auto max-w-120-px"/>
         <div class="pt-6 text-center">
           <h5 class="text-xl font-bold font-mono  text-blueGray-700">Jose Valenzuela</h5>
-          <p class="mt-1 text-sm font-mono text-blueGray-400 uppercase font-semibold">Full Stack Dev</p>
+          <p class="mt-1 text-sm font-mono text-blueGray-400 uppercase font-semibold">Front-End Dev</p>
         </div>
       </div>
     </div>
