@@ -64,7 +64,7 @@ return(
       Full Stack Developer
     </h3>
     <p class="text-lg font-light leading-relaxed mt-1 mb-4 text-blueGray-600">
-    As a Full Stack developer, I have experience building web and mobile applications using a variety of technologies.
+    As a Front-End developer, I have experience building web and mobile applications using a variety of technologies.
     I have particular passion for developing and designing the front-end of an application. I like to code things from scratch, and love putting ideas to work.
     I value simplicity, clean design, and performance.
     </p>
